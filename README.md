@@ -1,0 +1,1 @@
+Minimal Node app with TypeScript support
