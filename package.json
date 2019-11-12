@@ -17,7 +17,5 @@
         "ts-node": "*",
         "typescript": "*"
     },
-    "dependencies": {
-        "ts-log-debug": "*"
-    }
+    "dependencies": {}
 }
